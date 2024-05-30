@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kim\\Desktop\\3DSurvival\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\ui\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\player\\playerconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|c:\\users\\kim\\desktop\\3dsurvival\\assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\scriptableobject\\item data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\item data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\ui\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3DSurvival\\assets\\scripts\\ui\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3771EDC-EF17-B3C0-2F02-5782CDBFF624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\CharacterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIInventory.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAuwNkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:41:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemSlot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:35:47.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:02:27.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerConditions.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\PlayerConditions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerConditions.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\PlayerConditions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerConditions.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:02:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemObject.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemObject.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\ItemObject.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:47:55.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAYwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:02:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:28:17.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CampFire.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\CampFire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CampFire.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\CampFire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CampFire.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:03:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item Data.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\ScriptableObject\\Item Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\Item Data.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\ScriptableObject\\Item Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\Item Data.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:24:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UICondition.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\UICondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UICondition.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\UICondition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UICondition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:46:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:50:09.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterManager.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\Player\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA2wBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:02:24.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DamageIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:52:10.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\Condition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Condition.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\UI\\Condition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Condition.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:48:12.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAywAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:20:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterManager.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3DSurvival\\Assets\\Scripts\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:49:55.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
